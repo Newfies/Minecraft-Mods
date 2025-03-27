@@ -10,6 +10,6 @@
 
 - Mods Will Be Served Under This Path
 
-** [Mod Name] > [Version] > [Obfuscated] > newfies_recipes-[Version Of Mod]-forge-[Version Of Minecraft] **
+**__[Mod Name]__ > __[Version]__ > __[Obfuscated]__ > newfies_recipes-[Version Of Mod]-forge-__[Version Of Minecraft]__**
 
-** [Mod Name] > [Version] > [Deobfuscated] > newfies_recipes-[Version Of Mod]-forge-[Version Of Minecraft] **
+**__[Mod Name]__ > __[Version]__ > __[Deobfuscated]__ > newfies_recipes-__[Version Of Mod]__-forge-__[Version Of Minecraft]__**

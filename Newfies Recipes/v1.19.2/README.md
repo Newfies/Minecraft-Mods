@@ -1,6 +1,6 @@
 # Newfies Recipes v1.19.2
 
-** Old Recipes/Removed Recipes Will Be Crossed Out **
+**Old Recipes/Removed Recipes Will Be Crossed Out**
 
 ## Methods
 

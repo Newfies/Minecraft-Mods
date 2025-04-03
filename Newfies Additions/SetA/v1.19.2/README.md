@@ -1,0 +1,1 @@
+# Newfies Additions (Set A) v1.19.2

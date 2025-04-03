@@ -17,7 +17,7 @@ Whats Newfies Additions!? Newfies Additions is a mod that adds multiple new and 
 
 **Ore that drops Experience Dust. This block can only be mined with a stone pickage or anything stronger. This block has custom sounds.**
 
-- Deepslate Experience Orel
+- Deepslate Experience Ore
 
 **Ore that drops Experience Dust. This block can only be mined with a stone pickage or anything stronger. This block has custom sounds.**
 

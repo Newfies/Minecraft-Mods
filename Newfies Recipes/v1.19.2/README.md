@@ -15,8 +15,10 @@
 
 ## Recipes
 
-|    | Recipe Method | Whats Needed | What You Get |
-|----|---------------|--------------|--------------|
-| #1 | Stone cutting | Any Wool     | x2 String    |
-| #2 | Smelting      | Any Wool     | x1 String    |
-| #3 | Blasting      | Any Wool     | x1 String    |
+|    | Recipe Method   | Whats Needed | What You Get | Recipe Image                                                                                                                  |
+|----|-----------------|--------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+| #1 | Stone cutting   | Any Wool     | x2 String    |                                                                                                                               |
+| #2 | Smelting        | Any Wool     | x1 String    |                                                                                                                               |
+| #3 | Blasting        | Any Wool     | x1 String    |                                                                                                                               |
+| #4 | Crafting Recipe | 5x String    | x1 Cobweb    | ![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/imgs/CobwebRecipe.png) |
+| #5 | Crafting Recipe | 3x String    | x1 Lead      | ![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/imgs/LeadRecipe.png) |

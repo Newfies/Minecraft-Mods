@@ -1,6 +1,8 @@
-# Newfies Additions (Set A)
+# More Experience - Newfies Additions
 
-Whats Newfies Additions!? Newfies Additions is a mod that adds multiple new and (mostly) vanilla-like blocks, tools, and other cool things to your Minecraft world. Most of these are things I needed in the past to exist, that I could've added, but then was probably like "nah", then I went into creative and got the thing I needed.
+Whats More Experience!? More Experience is a mod that adds more ways of obtaining XP, such as a new ore, new items, and more!
+
+Whats Newfies Additions? Newfies Additions is a collection of mods that center around adding multiple new and (mostly) vanilla-like blocks, tools, and other cool things to your Minecraft world. Most of these are things I needed in the past to exist, that I could've added, but then was probably like "nah", then I went into creative and got the thing I needed.
 
 ### Some of the features of this mod are as followed:
 
@@ -27,4 +29,4 @@ Whats Newfies Additions!? Newfies Additions is a mod that adds multiple new and 
 
 To see more detailed information I recommend you visit the GitHub where you can find the README and the deobfuscated version of the mod!
 
-# [GITHUB](https://github.com/Newfies/Minecraft-Mods/tree/main/Newfies%20Additions/SetA/)
+# [GITHUB](https://github.com/Newfies/Minecraft-Mods/tree/main/More%20Experience/)

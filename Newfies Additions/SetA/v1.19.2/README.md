@@ -22,7 +22,7 @@
 <details>
 <summary>Deepslate Experience Ore</summary>
 
-<img src='https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Additions/SetA/v1.19.2/imgs/deepslate_experience_ore.png.png' style="width: 250px; height: 250px;">
+<img src='https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Additions/SetA/v1.19.2/imgs/deepslate_experience_ore.png' style="width: 250px; height: 250px;">
 
 </details>
 

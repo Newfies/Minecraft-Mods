@@ -1,58 +1,33 @@
-# More Experience - Newfies Additions
+## Newfies Recipes
 
-Whats More Experience!? More Experience is a mod that adds more ways of obtaining XP, such as a new ore, new items, and more!
+Whats Newfies Recipes!? Newfies Recipes is a mod that adds multiple new and (mostly) vanilla-like recipes to your Minecraft world. Most of these recipes are things I needed in the past to exist, that I could've added, but then was probably like "nah", then I went into creative and got the thing I needed.
 
-Whats Newfies Additions? Newfies Additions is a collection of mods that center around adding multiple new and (mostly) vanilla-like blocks, tools, and other cool things to your Minecraft world. Most of these are things I needed in the past to exist, that I could've added, but then was probably like "nah", then I went into creative and got the thing I needed.
+### Some of the features of this mod are as followed:
+**If You need string, but cannot be bothered to find and or kill Spiders, and you have a bunch of wool laying around. The only downside of this being that you get 1x string for 1x wool.**
+**If you specificly (and randomly) need cobweb (after killing Sheep instead of finding Spiders) for maybe your MLG clutch moment, recipes from other mods (which is what I needed it for), etc.**
+**If using the Waystone mod, it needs you to lasso mobs you wanna bring with you.**
 
-## Blocks and Items
+### Methods
 
-### Experience Ore
+- Crafting is the Crafting Table.
+- Smelting is Furnace recipe.
+- Blasting is a recipe inside the Blast Furnace.
+- Smoking is a recipe inside the Smoker.
+- Stone cutting is a Stone Cutter recipe.
+- Campfire cooking is a recipe for when we right-click on a Campfire.
+- Smithing is a recipe inside the Smithing Table.
+- Brewing is a recipe inside a Brewing Stand.
 
-![](https://github.com/Newfies/Minecraft-Mods/blob/main/More%20Experience/v1.19.2/res/experience_ore.png?raw=true)
+### Recipes
 
-- Hardness of 1.25
-- Luminance of 4
-- Light Opacity of 11
-- Custom Loot Table
-- Requires Stone Pickage or higher
-- Custom Sounds
-- Can spawn in the place of any stone block
-- Average ore groups per chunk is 6
-- Average number of ores in a group is 6
-- Generation height of 0 to 64
-
-### Deepslate Experience Ore
-
-![](https://github.com/Newfies/Minecraft-Mods/blob/main/More%20Experience/v1.19.2/res/deepslate_experience_ore.png?raw=truehttps://github.com/Newfies/Minecraft-Mods/blob/main/More%20Experience/v1.19.2/res/experience_ore.png?raw=true)
-
-- Hardness of 1.45
-- Luminance of 4
-- Light Opacity of 12
-- Custom Loot Table
-- Requires Stone Pickage or higher
-- Custom Sounds
-- Can spawn in the place of any stone block
-- Average ore groups per chunk is 8
-- Average number of ores in a group is 5
-- Generation height of -64 to 25	
-
-### Experience Dust
-
-![](https://github.com/Newfies/Minecraft-Mods/blob/main/More%20Experience/v1.19.2/res/Experience%20Dust.png?raw=true)
-
-- Obtained by mining Experience Ore and Deepslate Experience Ore
-
-### Overfilled Experience Bottle
-
-![](https://github.com/Newfies/Minecraft-Mods/blob/main/More%20Experience/v1.19.2/res/overfilled_experience_bottle.png?raw=true)
-
-- Obtained By crafting
-
-## Recipes
-
-![](https://github.com/Newfies/Minecraft-Mods/blob/main/More%20Experience/v1.19.2/res/CustomRecipe1.png?raw=true)
-
-![](https://github.com/Newfies/Minecraft-Mods/blob/main/More%20Experience/v1.19.2/res/CustomRecipe2.png?raw=true)
+![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase7.png?raw=true)
+![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase1.gif?raw=true)
+![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase2.gif?raw=true)
+![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase3.png?raw=true)
+![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase8.png?raw=true)
+![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase4.png?raw=true)
+![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase6.png?raw=true)
+![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase5.png?raw=true)
 
 ## End
 
@@ -64,4 +39,4 @@ Whats Newfies Additions? Newfies Additions is a collection of mods that center a
 
 To see more detailed information I recommend you visit the GitHub where you can find the README and the deobfuscated version of the mod!
 
-# [GITHUB](https://github.com/Newfies/Minecraft-Mods/tree/main/More%20Experience/)
+# [GITHUB](https://github.com/Newfies/Minecraft-Mods/tree/main/Newfies%20Recipes)

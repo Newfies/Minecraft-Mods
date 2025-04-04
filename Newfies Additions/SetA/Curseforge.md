@@ -6,7 +6,7 @@ Whats Newfies Additions!? Newfies Additions is a mod that adds multiple new and 
 
 #### Experience Related Items
 
-**I thought having custom ores for Experience would be cool. So we have Experience Ore and Deepslate Experience Ore, which drop a random amount of Experience Dust, which can be used to make a Experience Bottle. You also get more with fortune on both. Experience Ore spawns on a Y minimum of 0 and maximum of 256 in the place of any stone, while Deepslate Experience Ore spawns on a Y minimum of 25 and maximum of 256 in the place of any stone.
+**I thought having custom ores for Experience would be cool. So we have Experience Ore and Deepslate Experience Ore, which drop a random amount of Experience Dust, which can be used to make a Experience Bottle. You also get more with fortune on both. Experience Ore spawns on a Y minimum of 0 and maximum of 256 in the place of any stone, while Deepslate Experience Ore spawns on a Y minimum of 25 and maximum of 256 in the place of any stone.**
 
 
 - Experience Dust

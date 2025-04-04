@@ -2,6 +2,10 @@
 
 - Experience Ores and Item Added!
 
+<summary>X
+<details>x</details>
+</summary>
+
 ## Recipes
 
 |    | Recipe Method   | Whats Needed                  |  What You Get        | Recipe Image         |

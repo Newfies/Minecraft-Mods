@@ -5,28 +5,28 @@
 <details>
    <summary>Block/Item Textures</summary>
  
-    <details>
-        <summary>Experience Dust</summary>
+<details>
+<summary>Experience Dust</summary>
 
-        <img src='https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Additions/SetA/v1.19.2/imgs/experience_dust.png'>
+<img src='https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Additions/SetA/v1.19.2/imgs/experience_dust.png'>
 
-    </details>
+</details>
 
-    <details>
-        <summary>Experience Ore</summary>
+<details>
+<summary>Experience Ore</summary>
 
-        <img src='https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Additions/SetA/v1.19.2/imgs/experience_ore.png'>
+<img src='https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Additions/SetA/v1.19.2/imgs/experience_ore.png'>
 
-    </details>
+</details>
 
-    <details>
-        <summary>Deepslate Experience Ore</summary>
+<details>
+<summary>Deepslate Experience Ore</summary>
 
-        <img src='https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Additions/SetA/v1.19.2/imgs/deepslate_experience_ore.png.png'>
+<img src='https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Additions/SetA/v1.19.2/imgs/deepslate_experience_ore.png.png'>
 
-    </details>
+</details>
 
- </details>
+</details>
 
 ## Recipes
 

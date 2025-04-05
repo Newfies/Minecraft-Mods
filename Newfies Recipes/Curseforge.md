@@ -30,6 +30,7 @@ Whats Newfies Recipes!? Newfies Recipes is a mod that adds multiple new and (mos
 | #6 | Crafting Recipe | 1x String, 1x Paper            | x1 Name Tag  | ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase4.png?raw=true) |
 | #7 | Crafting Recipe | 4x Coal, 1x Glowstone Dust     | x3 Gunpowder | ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase6.png?raw=true) |
 | #8 | Crafting Recipe | 4x Charcoal, 1x Glowstone Dust | x2 Gunpowder | ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase5.png?raw=true) |
+| #9 | Crafting Recipe | x1 Honey Bottle, x1 Sugar      | x1 Slimeball | ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase5.png?raw=true) |
 
 ## End
 

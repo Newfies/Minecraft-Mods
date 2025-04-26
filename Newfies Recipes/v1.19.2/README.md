@@ -26,3 +26,13 @@
 | #7 | Crafting Recipe | 4x Coal, 1x Glowstone Dust     | x3 Gunpowder | ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase6.png?raw=true) |
 | #8 | Crafting Recipe | 4x Charcoal, 1x Glowstone Dust | x2 Gunpowder | ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase5.png?raw=true) |
 | #9 | Crafting Recipe | x1 Honey Bottle, x1 Sugar      | x1 Slimeball | ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase9.png?raw=true) |
+
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase10.png)
+
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase11.png)
+
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase12.png)
+
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase13.png)
+
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase14.png)

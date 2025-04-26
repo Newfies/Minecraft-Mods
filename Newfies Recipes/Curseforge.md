@@ -28,6 +28,11 @@ Whats Newfies Recipes!? Newfies Recipes is a mod that adds multiple new and (mos
 ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase7.png?raw=true)
 ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase8.png?raw=true)
 ![](https://github.com/Newfies/Minecraft-Mods/blob/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase9.png?raw=true)
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase10.png)
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase11.png)
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase12.png)
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase13.png)
+![](https://raw.githubusercontent.com/Newfies/Minecraft-Mods/refs/heads/main/Newfies%20Recipes/v1.19.2/res/RecipeShowcase14.png)
 
 ## End
 
